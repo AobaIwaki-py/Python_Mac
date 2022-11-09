@@ -1,4 +1,5 @@
 # QRコードを自動生成するWebアプリ
+# 参考：https://youtu.be/p_UAfUQLiKQ
 import streamlit as st
 import qrcode as qr
 from PIL import Image
